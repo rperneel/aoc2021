@@ -4,4 +4,7 @@
 // Day01.SolvePart2();
 
 // Day02.SolvePart1();
-Day02.SolvePart2();
+// Day02.SolvePart2();
+
+// Day03.SolvePart1();
+Day03.SolvePart2();
